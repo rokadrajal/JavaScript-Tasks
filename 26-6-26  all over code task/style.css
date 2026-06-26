@@ -1,0 +1,47 @@
+.heading{
+    align-items:center ;
+}
+
+.btn-1{
+    background-color: burlywood;
+    border: 0;
+    padding: 8px 8px;
+    border-radius: 5px;
+}
+
+.btn-2{
+    background-color:rgb(181, 238, 238);
+    border: 0;
+    padding: 8px 8px;
+    border-radius: 5px;
+}
+.btn-3{
+    background-color:cadetblue;
+    border: 0;
+    padding: 8px 8px;
+    border-radius: 5px;
+}
+.btn-4{
+    background-color:hotpink;
+    border: 0;
+    padding: 8px 8px;
+    border-radius: 5px;
+}
+.btn-5{
+    background-color:khaki;
+    border: 0;
+    padding: 8px 8px;
+    border-radius: 5px;
+}
+.btn-6{
+    background-color:palevioletred;
+    border: 0;
+    padding: 8px 8px;
+    border-radius: 5px;
+}
+.btn-7{
+    background-color:rosybrown;
+    border: 0;
+    padding: 8px 8px;
+    border-radius: 5px;
+}
