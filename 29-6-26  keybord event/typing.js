@@ -49,9 +49,6 @@ document.body.onkeypress = function (event) {
 
     count();
 
-    // document.querySelector('.a').innerHTML = True;
-    // document.querySelector('.b').innerHTML = False;
-    // document.querySelector('.c').innerHTML = space;
 
 
 
